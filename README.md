@@ -38,4 +38,5 @@ By downloading or using this software/content, you agree to the following:
 # 🙌 Credits
 
 Built by **GamesBond**
+
 Powered by **ElevenLabs** + **OpenAI GPT**

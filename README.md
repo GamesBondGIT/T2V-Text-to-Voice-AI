@@ -1,6 +1,6 @@
 # 📘 **T2V-v1 — Text-to-Voice Desktop Application**
 
-### *Script Refinement (GPT) → Voice Mapping → Multi-Voice Audio Generation (ElevenLabs)*
+### *Script Refinement (ChatGPT) → Voice Mapping → Multi-Voice Audio Generation (ElevenLabs)*
 ---
 
 # 🚀 Overview

@@ -1,4 +1,10 @@
-# 📘 **T2V-v1 — Text-to-Voice Desktop Application**
+<p align="center">
+<img src="assets/T2VBanner.jpg" width="100%">
+</p>
+
+---
+
+## 🚀 T2V-v1 — Text-to-Voice Desktop Application
 
 ### *Script Refinement (ChatGPT) → Voice Mapping → Multi-Voice Audio Generation (ElevenLabs)*
 ---

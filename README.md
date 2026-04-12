@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/GamesBondGIT/AWS-EC2-Controller/releases/download/awsec2ctrl/awsec2controller-v1.0-setup.exe">
-    <img src="screens/T2VWatermark.png" alt="Download AWS EC2 Controller Installer" width="180">
+    <img src="screens/T2VWatermark.png" alt="[Download T2V Installer](https://github.com/GamesBondGIT/T2V-Text-to-Voice-AI/releases/download/T2V/T2V-Installer.exe)" width="180">
   </a>
 </p>
 
